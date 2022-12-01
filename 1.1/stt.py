@@ -4,7 +4,7 @@ import sopiunddevice as sd
 import queue
 import json
 
-model = vosk.Model("C:/Users/valer/PycharmProjects/Jarvis/model-small")
+model = vosk.Model("KIRUSA/model-small")
 
 samplerate = 16000
 device = 0
